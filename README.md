@@ -2,7 +2,9 @@
 
 Unit 6: Measurement and Data Processing
 
-Read a CSV file in Python: https://replit.com/@evanweinberg/CSV-Reader-Pressures 
+Read a CSV file in Python: 
+- https://replit.com/@evanweinberg/CSV-Reader-Pressures 
+- https://replit.com/@kreier/CSV-Reader-Pressures-mk
 
 ``` py
 import csv
